@@ -1,0 +1,9 @@
+{
+    "name": "perceptron-example",
+    "author": {
+        "name": "Krasnov Anton",
+        "url": "https://www.linkedin.com/in/anton-krasnov-in-prague/"
+    },
+    "license": "ISC",
+    "main": "index.html"
+}
